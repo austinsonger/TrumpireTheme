@@ -182,6 +182,7 @@ del
 	border: none;
     width: 15px;
     height: 14px;
+	margin-left: 5px;
 }
 
 /*Selector for upvoted comment.*/
@@ -200,6 +201,7 @@ del
     display: block;
     width: 15px;
 	height: 14px;
+	margin-left: 5px;
 }
 
 /*This changes the image used by down-voted comments.*/
