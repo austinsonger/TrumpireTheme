@@ -1,4 +1,4 @@
-# Post an announcements here!
+﻿# Post an announcements here!
 
 ### Rules
 
@@ -55,23 +55,23 @@
         12. /r/The_Donald_HI
         13. /r/The_Donald_IA
         14. /r/The_Donald_ID
-        15. /r/The_Donald_IL
+        15. TheDonaldIllinois under maintenance.
         16. /r/The_Donald_IN
-        17. /r/The_Donald_KS
-        18. /r/The_Donald_KY
+        17. TheDonaldKansas under maintenance.
+        18. TheDonaldKentucky under maintenance.
     * State-specific Trump Subs (L-N) ▸
         19. /r/The_Donald_LA
-        21. /r/The_Donald_MA
-        22. /r/The_Donald_MD
+        21. TheDonaldMassachusetts under maintenance.
+        22. TheDonaldMaryland under maintenance.
         23. /r/The_Donald_ME
         24. /r/The_Donald_MI
         25. /r/The_Donald_MN
-        26. /r/The_Donald_MO
+        26. TheDonaldMissouri under maintenance.
         27. /r/The_Donald_MS
         28. /r/The_Donald_MT
         29. /r/The_Donald_NC
         30. /r/The_Donald_ND
-        31. /r/The_Donald_NE
+        31. TheDonaldNebraska under maintenance.
         32. /r/The_Donald_NH
         33. /r/The_Donald_NJ
         34. /r/The_Donald_NM
