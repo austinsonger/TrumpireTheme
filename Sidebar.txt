@@ -62,7 +62,7 @@
     * State-specific Trump Subs (L-N) ▸
         19. /r/The_Donald_LA
         21. TheDonaldMassachusetts under maintenance.
-        22. TheDonaldMaryland under maintenance.
+        22. /r/The_Donald_MD
         23. /r/The_Donald_ME
         24. /r/The_Donald_MI
         25. /r/The_Donald_MN
@@ -71,7 +71,7 @@
         28. /r/The_Donald_MT
         29. /r/The_Donald_NC
         30. /r/The_Donald_ND
-        31. TheDonaldNebraska under maintenance.
+        31. /r/The_Donald_NE
         32. /r/The_Donald_NH
         33. /r/The_Donald_NJ
         34. /r/The_Donald_NM
@@ -108,6 +108,7 @@
     * [Congressional Districts (31-40)](https://www.reddit.com/r/The_Donald_CA/search?q=flair%3A%22Congressional+Districts+%2831-40%29%22&restrict_sr=on)
     * [Congressional Districts (41-53)](https://www.reddit.com/r/The_Donald_CA/search?q=flair%3A%22Congressional+Districts+%2841-53%29%22&restrict_sr=on)
 * Important Topics ▾
+    * [Find your Senators!](https://www.senate.gov/)
     * [Find your rep!](http://www.house.gov/representatives/find/)
     * [Troubleshooting Thread!](https://www.reddit.com/r/The_Donald_CA/comments/67z8ft/welcome_to_the_new_tdca/)
     * [Suggestions Thread!](https://www.reddit.com/r/The_Donald_CA/comments/67z8ft/welcome_to_the_new_tdca/)
